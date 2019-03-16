@@ -10,3 +10,8 @@
 - One of the largest marketplace connecting borrowers and investors
 - A better expereince for borrowers 
 - Investors earn better retruns. 
+
+
+2. Data Explore
+Home Onwership distribution
+![image](https://github.com/Bear-LaiOffer/LendingClubReport/blob/master/Pictures/homeowners.png)
