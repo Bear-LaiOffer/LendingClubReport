@@ -4,6 +4,7 @@
 *Lending Club Data Analytics*
 
 **For this project, we present and explore the data from _Lending Club_.** 
+20249 loans being analyzed. 
 
 1. About Lending Club
 - [Lending Club](https://www.lendingclub.com/) is a p2p lending platform. 
