@@ -14,6 +14,10 @@
 
 
 2. Data Explore
+
+### Loan Status Report 
+![image](https://github.com/Bear-LaiOffer/LendingClubReport/blob/master/Pictures/loanstutus.png)
+
 Home Onwership distribution
 ![image](https://github.com/Bear-LaiOffer/LendingClubReport/blob/master/Pictures/homeowners.png)
 
