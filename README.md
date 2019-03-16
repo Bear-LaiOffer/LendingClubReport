@@ -21,3 +21,11 @@ Home Onwership distribution
 - [x] Missing Data
 - [ ] Outlier 
 - [ ] Errors 
+
+
+4. Feature Selection / Feature importance
+
+5. Risk prediciton 
+
+:+1: This report looks great!  - It's ready to publish!  :shipit:
+
