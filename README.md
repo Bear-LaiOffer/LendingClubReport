@@ -15,3 +15,9 @@
 2. Data Explore
 Home Onwership distribution
 ![image](https://github.com/Bear-LaiOffer/LendingClubReport/blob/master/Pictures/homeowners.png)
+
+
+3. Data Cleaning 
+- [x] Missing Data
+- [ ] Outlier 
+- [ ] Errors 
